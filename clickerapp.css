@@ -1,0 +1,19 @@
+body{
+    overflow: hidden;
+}
+
+#clickerBtn{
+    user-select: none;
+}
+
+#gamespace{
+    height: 50vh;
+    width: 100%;
+}
+
+#interface{
+    height: 50vh;
+    width:100%;
+    background: rgb(166,166,166);
+    background: linear-gradient(0deg, rgba(166,166,166,1) 0%, rgba(240,242,242,1) 100%);
+}
