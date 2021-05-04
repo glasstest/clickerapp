@@ -2,7 +2,7 @@ body{
     overflow: hidden;
 }
 
-#clickerBtn{
+button{
     user-select: none;
 }
 
