@@ -1,6 +1,6 @@
-# Clickerapp is an incremental/idle game test.  
+## Clickerapp is an incremental/idle game used to practice Javascript, Git, etc.
 
-## Planned features:  
+#### Planned features:  
  
 -[ ] game saves  
 -[ ] upgrade tree  
