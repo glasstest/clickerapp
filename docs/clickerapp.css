@@ -6,6 +6,11 @@ button{
     user-select: none;
 }
 
+li{
+    columns:2;
+    list-style-type: none;
+}
+
 #gamespace{
     height: 50vh;
     width: 100%;
